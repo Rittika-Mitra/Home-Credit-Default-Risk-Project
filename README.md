@@ -1,0 +1,2 @@
+# Home-Credit-Default-Risk-Project
+Home Credit is a financial institution that aims to create lines of credit specifically for the unbanked population. Unlike other credit institutions, the major challenge of Home Credit to predict loan default is absence of Credit score. The main target clients of Home Credit are unbanked or underbanked population with very limited credit history. The objective of this project is to build effective and efficient classification model to predict applicants’ loan repayment ability and to minimize risks of credit default for Home Credit.
