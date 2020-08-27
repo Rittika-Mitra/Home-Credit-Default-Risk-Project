@@ -1,6 +1,10 @@
 # Home-Credit-Default-Risk-Project
 Home Credit is a financial institution that aims to create lines of credit specifically for the unbanked population. Unlike other credit institutions, the major challenge of Home Credit to predict loan default is absence of Credit score. The main target clients of Home Credit are unbanked or underbanked population with very limited credit history. The objective of this project is to build effective and efficient classification model to predict applicants’ loan repayment ability and to minimize risks of credit default for Home Credit.
+
+This project is a group project and been done by 5 members. The other 4 members are Kabita Paul, Namrata Tathe, Ibrokhim Sadikov, Jiamin Lei .
+#############################################################
 DATA PROFILE
+#############################################################
 We collected our data from Kaggle, an online community that allows data science practitioners access to public data and post their solutions. There are a total of seven tables provided with the problem. For full details on each table, please click on this link: Kaggle Home Credit.
 
 Application (train/test): This is the main table broken into two files. The train file contains additional column TARGET which tells us the customer has repaid loan or not (1 is default, 0 is paid). The test dataset does not have a TARGET column. For the purpose of this machine learning project, we will use the application dataset labled as "train" to build our model and test our results. This table also contains client’s demographic and important information about client which includes whether the applicant owns a house/car, number of family members etc.
